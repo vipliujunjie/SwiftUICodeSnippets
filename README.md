@@ -6,6 +6,17 @@
 
 501-??? 为草稿代码, 属于制作视频时的副产物 = =
 
+## 预览效果
+
+### [001-RainbowText](/SwiftUICodeSnippets/001-RainbowText)
+<img src="Gifs/001.gif"/>
+
+### [002-ScaledButton](/SwiftUICodeSnippets/002-ScaledButton)
+<img src="Gifs/002.gif"/>
+
+### [003-ButtonRotationAnimation](/SwiftUICodeSnippets/003-ButtonRotationAnimation)
+<img src="Gifs/003.gif"/>
+
 # 欢迎大家加入我的知识星球
 - 这里我会分享视频中代码想法的由来 (以及相关知识点和资料)
 - 还会发布一些详细的代码讲解文章 (后期会和视频更新保持同步)
