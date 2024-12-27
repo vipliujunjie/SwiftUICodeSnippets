@@ -58,11 +58,11 @@ struct CalendarCardView: View {
                 .stroke(Color.black, lineWidth: 2)
                 .offset(x: 8, y: 8)
         }
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
+        .background(Color.indigo)
     }
 }
 
 #Preview {
     CalendarCardView()
-        .frame(maxWidth: .infinity, maxHeight: .infinity)
-        .background(Color.indigo)
 }

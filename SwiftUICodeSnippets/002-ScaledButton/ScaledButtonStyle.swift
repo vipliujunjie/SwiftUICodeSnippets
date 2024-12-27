@@ -16,18 +16,24 @@ struct ScaledButtonStyle: ButtonStyle {
     }
 }
 
-#Preview {
-    Button {
-        //
-    } label: {
-        Text("Hello, world")
-            .fontWeight(.medium)
-            .foregroundStyle(.white)
-            .frame(maxWidth: .infinity)
-            .padding()
-            .background(Color.black)
-            .clipShape(.capsule)
+struct ScaledButtonView: View {
+    var body: some View {
+        Button {
+            //
+        } label: {
+            Text("Hello, world")
+                .fontWeight(.medium)
+                .foregroundStyle(.white)
+                .frame(maxWidth: .infinity)
+                .padding()
+                .background(Color.black)
+                .clipShape(.capsule)
+        }
+        .buttonStyle(ScaledButtonStyle())
+        .padding()
     }
-    .buttonStyle(ScaledButtonStyle())
-    .padding()
+}
+
+#Preview {
+    ScaledButtonView()
 }

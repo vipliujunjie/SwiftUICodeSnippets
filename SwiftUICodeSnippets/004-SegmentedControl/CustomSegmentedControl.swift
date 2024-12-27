@@ -14,6 +14,7 @@ struct CustomSegmentedControl: View {
     var body: some View {
         ZStack {
             Color(uiColor: .secondarySystemBackground)
+                .ignoresSafeArea()
             HStack(spacing: 0) {
                 ForEach(Tab.allCases, id: \.self) { tab in
                     Button {

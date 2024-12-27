@@ -56,11 +56,11 @@ struct PolishView: View {
             .onTapGesture {
                 trigger.toggle()
             }
+            .frame(width: 200, height: 200)
+            .cornerRadius(24)
     }
 }
 
 #Preview {
     PolishView()
-        .frame(width: 200, height: 200)
-        .cornerRadius(24)
 }
