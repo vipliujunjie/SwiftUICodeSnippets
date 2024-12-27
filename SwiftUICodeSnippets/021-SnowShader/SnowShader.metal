@@ -18,7 +18,7 @@ using namespace metal;
                            float time,
                            float2 resolution) {
     float snow = 0.0;
-    float gradient = (1.0-float(position.y / resolution.x))*0.4;
+    // float gradient = (1.0-float(position.y / resolution.x))*0.4;
     float random = fract(sin(dot(position.xy,float2(12.9898,78.233)))* 43758.5453);
     
     for(int k=0;k<6;k++){
