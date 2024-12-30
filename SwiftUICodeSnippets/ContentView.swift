@@ -60,6 +60,7 @@ enum AllComponents: String, CaseIterable {
     case daysPostponement = "DaysPostponement"
     case calendarCard = "CalendarCard"
     case purchaseCard = "PurchaseCad"
+    case backgroundColor = "BackgroundColor"
     
     @ViewBuilder
     func makeView() -> some View {
@@ -112,6 +113,8 @@ enum AllComponents: String, CaseIterable {
             CalendarCardView()
         case .purchaseCard:
             PurchaseCardView()
+        case .backgroundColor:
+            BackgroundColorAnimationView()
         }
     }
 }

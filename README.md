@@ -19,6 +19,9 @@ Here are all the code snippets created in my short videos. Hope you like them! I
 
 # Preview Effects
 
+### [025-BackgroundAnimation](/SwiftUICodeSnippets/025-BackgroundAnimation)
+<img src="Gifs/025.gif" width="70%"/>
+
 ### [024-PurchaseCard](/SwiftUICodeSnippets/024-PurchaseCard)
 <img src="Gifs/024.gif" width="70%"/>
 
