@@ -16,6 +16,9 @@
 
 # 预览效果
 
+### [026-HorizontalPicker](/SwiftUICodeSnippets/026-HorizontalPicker)
+<img src="Gifs/026.gif" width="70%"/>
+
 ### [025-BackgroundAnimation](/SwiftUICodeSnippets/025-BackgroundAnimation)
 <img src="Gifs/025.gif" width="70%"/>
 
