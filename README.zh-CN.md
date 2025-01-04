@@ -70,7 +70,7 @@
 ### [009-ImageTransition](/SwiftUICodeSnippets/009-ImageTransition)
 <img src="Gifs/009.gif" width="70%"/>
 
-### [008-NavigationTransition](/SwiftUICodeSnippets/008-NavigationTransition)
+### [008-NavigationTransition](/SwiftUICodeSnippets/008-NavTransition)
 <img src="Gifs/008.gif" width="70%"/>
 
 ### [007-PolishAnimation](/SwiftUICodeSnippets/007-PolishAnimation)
