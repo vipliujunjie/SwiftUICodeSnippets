@@ -9,13 +9,13 @@ Here are all the code snippets created in my short videos. Hope you like them! I
 
 501-??? are draft code snippets, which are byproducts of video production = =
 
-# Welcome to Join My Knowledge Planet
+<!-- # Welcome to Join My Knowledge Planet
 - I'll share the inspiration behind the code in the videos (along with related knowledge points and resources)
 - I'll also publish detailed code explanation articles (will stay in sync with video updates later)
 - I'll share articles about SwiftUI and iOS independent development
 - If you're interested, welcome to join and discuss together
 
-<img src="Sponsorship/51111854458284T4.JPG" width="70%">
+<img src="Sponsorship/51111854458284T4.JPG" width="70%"> -->
 
 # Preview Effects
 
